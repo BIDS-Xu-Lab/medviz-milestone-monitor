@@ -1,0 +1,15 @@
+{
+    "system": {
+        "name": "Medviz Milestone Monitor",
+        "slogan": "Medviz Milestone Monitor"
+    },
+
+    "ai_service": {
+        "openai": {
+            "models": [
+                "gpt-4.1-nano",
+                "gpt-o4-mini"
+            ]
+        }
+    }
+}
