@@ -19,4 +19,4 @@ We want to create a web app that helps users to manage, track, and visualize the
 
 1. Users can login/logout using their email and password based on supabase.js
 2. Users can create projects, different users can collaborate on one project. The project owner can add/remove users to the project.
-3. 
+3. After login, users will go to the dashboard page·
